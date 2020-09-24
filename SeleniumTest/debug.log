@@ -1,0 +1,4 @@
+[0920/184313.924:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0920/185608.500:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0922/155046.876:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0922/160341.450:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
